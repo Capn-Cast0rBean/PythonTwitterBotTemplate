@@ -1,3 +1,6 @@
+### PythonTwitterBotTemplate.py ###
+### Created by Capn-Cast0rBean ###
+
 ### IMPORTS ###
 
 import time
