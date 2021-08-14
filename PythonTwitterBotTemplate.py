@@ -33,8 +33,8 @@ auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 api = tweepy.API(auth)
 
 while True:
-    postthis = twitterPost()
-    if len(postthis) <= 140:
-        api.update_status(status=postthis)
-        print(postthis)
+    postThis = twitterPost()
+    if len(postThis) <= 140:
+        api.update_status(status=postThis)
+        print(postThis)
         time.sleep(hoursBetweenTweet * 3600)
