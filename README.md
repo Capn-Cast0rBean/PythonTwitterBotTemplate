@@ -28,9 +28,9 @@ ACCESS_SECRET = Your Twitter Developer Account Access Secret Key must be written
 postThis = This is meant to be equal to the function of which the return value is meant to be tweeted. It is not recommended to change this, as it is easier to edit the twitterPost() function rather than create a seperate function. However, do what you will.
 
 ## Licensing
-[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+This program and all of its included assets are licensed under the [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
 
-
+A copy of this license will be included with the program.
 
 
 
@@ -56,4 +56,3 @@ GNU Affero General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License
 along with this file.  If not, see <https://www.gnu.org/licenses/>.
-
