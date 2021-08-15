@@ -1,6 +1,8 @@
 # PythonTwitterBotTemplate
 The basics of creating your own Python-based Twitter bot are at your very fingertips. No longer do you need unnecessarily long step-by-step guides from Reddit. 
-You just need basic Python knowledge, a Twitter Dev account, and a little bit of imagination.
+You just need basic Python knowledge, a Twitter Dev account, and a little bit of imagination. 
+This program is licensed under the GNU AGPL v3.0 license.
+More information about this program's licensing information can be found in the section titled "Licensing".
 
 ## Usage
 This template can be used for a variety of purposes such as autmoated tweets, Twitter accounts meant for advertisments, or Twitter accounts meant for buisness.
@@ -25,5 +27,21 @@ ACCESS_SECRET = Your Twitter Developer Account Access Secret Key must be written
 
 postThis = This is meant to be equal to the function of which the return value is meant to be tweeted. It is not recommended to change this, as it is easier to edit the twitterPost() function rather than create a seperate function. However, you may do what you will.
 
-## License
+## Licensing
 [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+
+Copyright (C) 2021  Capn-Cast0rBean
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this file.  If not, see <https://www.gnu.org/licenses/>.
+
