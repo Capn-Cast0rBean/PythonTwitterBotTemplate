@@ -30,6 +30,17 @@ postThis = This is meant to be equal to the function of which the return value i
 ## Licensing
 [GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
 
+
+
+
+
+
+
+
+
+
+
+
 Copyright (C) 2021  Capn-Cast0rBean
 
 This file is free software: you can redistribute it and/or modify
