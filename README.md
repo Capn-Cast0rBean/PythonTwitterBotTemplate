@@ -9,6 +9,8 @@ This template can be used for a variety of purposes such as automated tweets, Tw
 However, this template must be used while maintaining the Twitter Terms of Service.
 Any act that violates these terms is not permitted.
 You will need a Twitter Developer Account, which is where you will find your Consumer Key, Consumer Secret Key, Access Key, and Access Secret Key.
+When the program is run, the return value of twitterPost() will be posted to Twitter via the developer account whos keys are entered into the corresponding variables.
+If left running, the program will continue to post after the determined amount of hours programmed.
 
 ## Editing
 While this template can be changed however you desire, there are some main components that need to be adjusted if you want to use this bot "straight out of the box".
